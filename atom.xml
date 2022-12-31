@@ -3,11 +3,11 @@
   <title>小北の</title>
   
   
-  <link href="http://beix.github.io/bei/atom.xml" rel="self"/>
+  <link href="http://beix.github.io/atom.xml" rel="self"/>
   
-  <link href="http://beix.github.io/bei/"/>
+  <link href="http://beix.github.io/"/>
   <updated>2022-12-27T09:18:48.890Z</updated>
-  <id>http://beix.github.io/bei/</id>
+  <id>http://beix.github.io/</id>
   
   <author>
     <name>小北の</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://beix.github.io/bei/2022/12/27/hello-world/"/>
-    <id>http://beix.github.io/bei/2022/12/27/hello-world/</id>
+    <link href="http://beix.github.io/title.html"/>
+    <id>http://beix.github.io/title.html</id>
     <published>2022-12-27T09:18:48.890Z</published>
     <updated>2022-12-27T09:18:48.890Z</updated>
     
